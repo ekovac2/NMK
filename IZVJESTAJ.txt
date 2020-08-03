@@ -1,0 +1,50 @@
+1. Ono sto je bilo potrebno koristiti prilikom izrade:
+
+	a) Apstraktna, sealed, partial klasa
+Klasu osoba sam implementirala kao apstraktnu klasu, dok su klase Doktor, Karton, Ordinacija, 
+Pregled implementirane kao sealed klase. Klase: Metode, MetodeKarton, MetodePacijent, MetodePregled
+sam implamentirala kao partial klase jedna klase Metode. Putem klase Metode unosim sve bitne podatke
+o pacijentu;
+
+	b) Interface: 
+U mom projektu je to obracun i sadrzi jednu metodu koja obracunava platu, te racun koji pacijent 
+dobija po izlasku iz klinike;
+	
+	c) Odvojeni DLL
+Pod imenom IDLL sadrzi dvije metode koje sluze za validaciju JMBG, tj. daju povratnu vrijednost da li
+je uneseni maticni broj u skladu sa unesenim datumom rodjenja;
+
+	d) Kolekcije podataka
+Koristila sam listu podataka kao jednu kolekciju;
+
+	e) Lambda izrazi:
+Koristeni pri pozivanju funkcije Sort prilikom obrade podataka za opciju AnalizaSadrzaja, 
+mnogo je lakse iskoristiti lambda izraz za funkciju kriterija, nego praviti posebnu funkciju 
+koju mozda poslije necemo koristiti vise;
+
+	f) Delegat
+Koristen za ispis sadrzaja za opciju AnalizaSadrzaja, jer nam cesto trebaju funkcije koje 
+samo ispisuju neki sadrzaj;
+
+2. U konstruktoru klase "Klinika" sam sacuvala 5 ordinacija i 5 doktora (jedan doktor po ordinaciji);
+
+3. Prilikom ulaska na Meni pacijente je moguæe unijeti koristenjem opcije 1. obicnog i hitnog 
+pacijenta koji se razliku u cinjenici da za hitnog pacijenta je potrebno unijeti i prvu pomoc
+					
+4. Brisanjem pacijenta se brise i njegov karton, te njegovo mjesto u listi ordinacija, jer je on 
+zavrsio svoje preglede;
+
+5. Dodatni podaci o pacijentu se uzimaju koristenjem opcije DodajKarton kao sto su sadasnje bolesti,
+alergije, prijasnje bolesti. Da bi se kreirao karton pacijent mora biti prethodno unesen, pa ako nije
+unesen vracamo se na Meni;
+
+6. Da bismo pristupili bilo kojoj sferi vezanoj za pacijenta unosimo njegov JMBG jer se svaki 
+pacijent po njemu razlikuje;
+
+7. AnalizaSadrzaja ima dvije opcije: Doktor sa najvise pacijenata, te ordinacija sa najvise 
+pacijenata;
+
+8. Prilikom naplate imamo dvije opcije: placanje gotovinom i placanje na rate (uracunati su popusti, 
+te dodatak na racun ukoliko se radi o stalnim pacijentima, odnosno ukoliko se radi o placanju
+na rate ili placanju gotovinom!)
+				
