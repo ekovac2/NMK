@@ -1,0 +1,27 @@
+C:\Users\Zerina\source\repos\Zadaća NMK\Zadaća NMK\bin\Debug\Zadaća NMK.exe.config
+C:\Users\Zerina\source\repos\Zadaća NMK\Zadaća NMK\bin\Debug\Zadaća NMK.exe
+C:\Users\Zerina\source\repos\Zadaća NMK\Zadaća NMK\bin\Debug\Zadaća NMK.pdb
+C:\Users\Zerina\source\repos\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća_NMK.Form1.resources
+C:\Users\Zerina\source\repos\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća_NMK.Properties.Resources.resources
+C:\Users\Zerina\source\repos\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća NMK.csproj.GenerateResource.Cache
+C:\Users\Zerina\source\repos\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća NMK.csproj.CoreCompileInputs.cache
+C:\Users\Zerina\source\repos\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća NMK.exe
+C:\Users\Zerina\source\repos\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća NMK.pdb
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\bin\Debug\Zadaća NMK.exe.config
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\bin\Debug\Zadaća NMK.exe
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\bin\Debug\Zadaća NMK.pdb
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća_NMK.Properties.Resources.resources
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća NMK.csproj.GenerateResource.Cache
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća NMK.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća NMK.exe
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća NMK.pdb
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća NMK.csprojResolveAssemblyReference.cache
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća_NMK.Doktori_forma.resources
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća_NMK.Forma1.resources
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća_NMK.FormaTehnicar.resources
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća_NMK.FormaAdministrator.resources
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća_NMK.FormaPacijent.resources
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća_NMK.FormaDoktor.resources
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\obj\Debug\Zadaća_NMK.PieChart.resources
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\KORISNIK\Downloads\Zadaća-NMK\Zadaća NMK\Zadaća NMK\bin\Debug\WindowsFormsControlLibrary1.pdb
